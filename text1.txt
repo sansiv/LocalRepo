@@ -2,7 +2,8 @@ Hi, a file created at Local Repo.
 ---------------------------------
 Hey, I have updated this file at a new branch named feature1.
 ---------------------------------
-Trying to receive a conflict by feature1 branch
----------------------------------
 Trying out a change by main branch
+---------------------------------
+Trying to receive a conflict by feature1 branch
+
 
